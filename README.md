@@ -28,3 +28,8 @@
 
 -   `Repeat steps above` <em>especially reread the comments</em>
 -   Address the lecture materials, demo code, and recordings
+
+## 🚨 Warning
+
+- Don't break working code!
+- If you see code <em>without</em> comments under it, that probably means it is working and doesn't need to change.
